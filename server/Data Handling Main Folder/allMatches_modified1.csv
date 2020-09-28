@@ -1,0 +1,637 @@
+,Unnamed: 0,id,season,city,date,home_team,away_team,toss_winner,toss_decision,venue,winner,weight_home,weight_away,totMatch_home,totMatch_away,playerPtsSum_home,playerPtsSum_away
+0,0,1,2008,Bangalore,18-04-2008,KKR,RCB,RCB,field,M Chinnaswamy Stadium,KKR,0,0,13,14,1245,1272
+1,1,2,2008,Chandigarh,19-04-2008,CSK,KXIP,CSK,bat,"Punjab Cricket Association Stadium, Mohali",CSK,0,0,16,15,1630,1734
+2,2,3,2008,Delhi,19-04-2008,RR,DD,RR,bat,Feroz Shah Kotla,DD,0,0,16,14,1840,1484
+3,3,4,2008,Mumbai,20-04-2008,MI,RCB,MI,bat,Wankhede Stadium,RCB,0,0,14,14,1540,1272
+4,4,5,2008,Kolkata,20-04-2008,DC,KKR,DC,bat,Eden Gardens,KKR,0,0,14,13,1358,1245
+5,5,6,2008,Jaipur,21-04-2008,KXIP,RR,KXIP,bat,Sawai Mansingh Stadium,RR,0,0,15,16,1734,1840
+6,6,7,2008,Hyderabad,22-04-2008,DC,DD,DC,bat,"Rajiv Gandhi International Stadium, Uppal",DD,0,0,14,14,1358,1484
+7,7,8,2008,Chennai,23-04-2008,CSK,MI,MI,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,14,1630,1540
+8,8,9,2008,Hyderabad,24-04-2008,DC,RR,RR,field,"Rajiv Gandhi International Stadium, Uppal",RR,0,0,14,16,1358,1840
+9,9,10,2008,Chandigarh,25-04-2008,KXIP,MI,MI,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,15,14,1734,1540
+10,10,11,2008,Bangalore,26-04-2008,RCB,RR,RR,field,M Chinnaswamy Stadium,RR,0,0,14,16,1272,1840
+11,11,12,2008,Chennai,26-04-2008,KKR,CSK,KKR,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,13,16,1245,1630
+12,12,13,2008,Mumbai,27-04-2008,MI,DC,DC,field,Dr DY Patil Sports Academy,DC,0,0,14,14,1540,1358
+13,13,14,2008,Chandigarh,27-04-2008,DD,KXIP,DD,bat,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,14,15,1484,1734
+14,14,15,2008,Bangalore,28-04-2008,CSK,RCB,CSK,bat,M Chinnaswamy Stadium,CSK,0,0,16,14,1630,1272
+15,15,16,2008,Kolkata,29-04-2008,KKR,MI,KKR,bat,Eden Gardens,MI,0,0,13,14,1245,1540
+16,16,17,2008,Delhi,30-04-2008,DD,RCB,RCB,field,Feroz Shah Kotla,DD,0,0,14,14,1484,1272
+17,17,18,2008,Hyderabad,01-05-2008,DC,KXIP,KXIP,field,"Rajiv Gandhi International Stadium, Uppal",KXIP,0,0,14,15,1358,1734
+18,18,19,2008,Jaipur,01-05-2008,RR,KKR,RR,bat,Sawai Mansingh Stadium,RR,0,0,16,13,1840,1245
+19,19,20,2008,Chennai,02-05-2008,CSK,DD,CSK,bat,"MA Chidambaram Stadium, Chepauk",DD,0,0,16,14,1630,1484
+20,20,21,2008,Hyderabad,25-05-2008,DC,RCB,DC,bat,"Rajiv Gandhi International Stadium, Uppal",RCB,0,0,14,14,1358,1272
+21,21,22,2008,Chandigarh,03-05-2008,KXIP,KKR,KXIP,bat,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,15,13,1734,1245
+22,22,23,2008,Mumbai,04-05-2008,MI,DD,DD,field,Dr DY Patil Sports Academy,MI,0,0,14,14,1540,1484
+23,23,24,2008,Jaipur,04-05-2008,CSK,RR,CSK,bat,Sawai Mansingh Stadium,RR,0,0,16,16,1630,1840
+24,24,25,2008,Bangalore,05-05-2008,RCB,KXIP,KXIP,field,M Chinnaswamy Stadium,KXIP,0,0,14,15,1272,1734
+25,25,26,2008,Chennai,06-05-2008,CSK,DC,DC,field,"MA Chidambaram Stadium, Chepauk",DC,0,0,16,14,1630,1358
+26,26,27,2008,Mumbai,07-05-2008,RR,MI,MI,field,Dr DY Patil Sports Academy,MI,0,0,16,14,1840,1540
+27,27,28,2008,Delhi,08-05-2008,DD,CSK,CSK,field,Feroz Shah Kotla,CSK,0,0,14,16,1484,1630
+28,28,29,2008,Kolkata,08-05-2008,KKR,RCB,KKR,bat,Eden Gardens,KKR,0,0,13,14,1245,1272
+29,29,30,2008,Jaipur,09-05-2008,DC,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,14,16,1358,1840
+30,30,31,2008,Bangalore,28-05-2008,RCB,MI,MI,field,M Chinnaswamy Stadium,MI,0,0,14,14,1272,1540
+31,31,32,2008,Chennai,10-05-2008,CSK,KXIP,KXIP,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,15,1630,1734
+32,32,33,2008,Hyderabad,11-05-2008,KKR,DC,KKR,bat,"Rajiv Gandhi International Stadium, Uppal",KKR,0,0,13,14,1245,1358
+33,33,34,2008,Jaipur,11-05-2008,DD,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,14,16,1484,1840
+34,34,35,2008,Chandigarh,12-05-2008,RCB,KXIP,RCB,bat,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,14,15,1272,1734
+35,35,36,2008,Kolkata,13-05-2008,KKR,DD,KKR,bat,Eden Gardens,KKR,0,0,13,14,1245,1484
+36,36,37,2008,Mumbai,14-05-2008,CSK,MI,MI,field,Wankhede Stadium,MI,0,0,16,14,1630,1540
+37,37,38,2008,Chandigarh,28-05-2008,KXIP,RR,RR,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,15,16,1734,1840
+38,38,39,2008,Delhi,15-05-2008,DD,DC,DC,field,Feroz Shah Kotla,DD,0,0,14,14,1484,1358
+39,39,40,2008,Mumbai,16-05-2008,KKR,MI,MI,field,Wankhede Stadium,MI,0,0,13,14,1245,1540
+40,40,41,2008,Delhi,17-05-2008,DD,KXIP,DD,bat,Feroz Shah Kotla,KXIP,0,0,14,15,1484,1734
+41,41,42,2008,Jaipur,17-05-2008,RR,RCB,RCB,field,Sawai Mansingh Stadium,RR,0,0,16,14,1840,1272
+42,42,43,2008,Hyderabad,18-05-2008,MI,DC,DC,field,"Rajiv Gandhi International Stadium, Uppal",MI,0,0,14,14,1540,1358
+43,43,44,2008,Kolkata,18-05-2008,KKR,CSK,KKR,bat,Eden Gardens,CSK,0,0,13,16,1245,1630
+44,44,45,2008,Bangalore,19-05-2008,RCB,DD,DD,field,M Chinnaswamy Stadium,DD,0,0,14,14,1272,1484
+45,45,46,2008,Kolkata,20-05-2008,KKR,RR,RR,field,Eden Gardens,RR,0,0,13,16,1245,1840
+46,46,47,2008,Mumbai,21-05-2008,KXIP,MI,MI,field,Wankhede Stadium,KXIP,0,0,15,14,1734,1540
+47,47,48,2008,Chennai,21-05-2008,RCB,CSK,RCB,bat,"MA Chidambaram Stadium, Chepauk",RCB,0,0,14,16,1272,1630
+48,48,49,2008,Chandigarh,23-05-2008,DC,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,14,15,1358,1734
+49,49,50,2008,Delhi,24-05-2008,MI,DD,DD,field,Feroz Shah Kotla,DD,0,0,14,14,1540,1484
+50,50,51,2008,Chennai,24-05-2008,RR,CSK,RR,bat,"MA Chidambaram Stadium, Chepauk",RR,0,0,16,16,1840,1630
+51,51,52,2008,Bangalore,03-05-2008,RCB,DC,DC,field,M Chinnaswamy Stadium,RCB,0,0,14,14,1272,1358
+52,52,53,2008,Kolkata,25-05-2008,KXIP,KKR,KXIP,bat,Eden Gardens,KKR,0,0,15,13,1734,1245
+53,53,54,2008,Jaipur,26-05-2008,MI,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,14,16,1540,1840
+54,54,55,2008,Hyderabad,27-05-2008,DC,CSK,DC,bat,"Rajiv Gandhi International Stadium, Uppal",CSK,0,0,14,16,1358,1630
+55,55,56,2008,Mumbai,30-05-2008,RR,DD,DD,field,Wankhede Stadium,RR,0,0,16,14,1840,1484
+56,56,57,2008,Mumbai,31-05-2008,KXIP,CSK,KXIP,bat,Wankhede Stadium,CSK,0,0,15,16,1734,1630
+57,57,58,2008,Mumbai,01-06-2008,CSK,RR,RR,field,Dr DY Patil Sports Academy,RR,0,0,16,16,1630,1840
+58,58,59,2009,Cape Town,18-04-2009,MI,CSK,CSK,field,Newlands,MI,0,0,13,14,1433,1550
+59,59,60,2009,Cape Town,18-04-2009,RCB,RR,RCB,bat,Newlands,RCB,0,0,16,13,1461,1191
+60,60,61,2009,Cape Town,19-04-2009,KXIP,DD,DD,field,Newlands,DD,0,0,14,15,1257,1399
+61,61,62,2009,Cape Town,19-04-2009,KKR,DC,KKR,bat,Newlands,DC,0,0,13,16,1091,1718
+62,62,63,2009,Port Elizabeth,20-04-2009,CSK,RCB,CSK,bat,St George's Park,CSK,0,0,14,16,1550,1461
+63,63,64,2009,Durban,21-04-2009,KXIP,KKR,KKR,field,Kingsmead,KKR,0,0,14,13,1257,1091
+64,64,65,2009,Cape Town,22-04-2009,DC,RCB,DC,bat,Newlands,DC,0,0,16,16,1718,1461
+65,65,66,2009,Durban,23-04-2009,DD,CSK,DD,bat,Kingsmead,DD,0,0,15,14,1399,1550
+66,66,67,2009,Cape Town,23-04-2009,RR,KKR,KKR,field,Newlands,RR,0,0,13,13,1191,1091
+67,67,68,2009,Durban,24-04-2009,RCB,KXIP,RCB,bat,Kingsmead,KXIP,0,0,16,14,1461,1257
+68,68,69,2009,Durban,25-04-2009,DC,MI,DC,bat,Kingsmead,DC,0,0,16,13,1718,1433
+69,69,70,2009,Port Elizabeth,26-04-2009,RCB,DD,RCB,bat,St George's Park,DD,0,0,16,15,1461,1399
+70,70,71,2009,Cape Town,26-04-2009,KXIP,RR,KXIP,bat,Newlands,KXIP,0,0,14,13,1257,1191
+71,71,72,2009,Durban,27-04-2009,CSK,DC,DC,field,Kingsmead,DC,0,0,14,16,1550,1718
+72,72,73,2009,Port Elizabeth,27-04-2009,MI,KKR,MI,bat,St George's Park,MI,0,0,13,13,1433,1091
+73,73,74,2009,Centurion,28-04-2009,DD,RR,DD,bat,SuperSport Park,RR,0,0,15,13,1399,1191
+74,74,75,2009,Durban,29-04-2009,KKR,RCB,KKR,bat,Kingsmead,RCB,0,0,13,16,1091,1461
+75,75,76,2009,Durban,29-04-2009,KXIP,MI,KXIP,bat,Kingsmead,KXIP,0,0,14,13,1257,1433
+76,76,77,2009,Centurion,30-04-2009,DC,DD,DD,field,SuperSport Park,DD,0,0,16,15,1718,1399
+77,77,78,2009,Centurion,30-04-2009,CSK,RR,RR,field,SuperSport Park,CSK,0,0,14,13,1550,1191
+78,78,79,2009,East London,01-05-2009,MI,KKR,MI,bat,Buffalo Park,MI,0,0,13,13,1433,1091
+79,79,80,2009,Durban,01-05-2009,RCB,KXIP,RCB,bat,Kingsmead,RCB,0,0,16,14,1461,1257
+80,80,81,2009,Port Elizabeth,02-05-2009,DC,RR,DC,bat,St George's Park,RR,0,0,16,13,1718,1191
+81,81,82,2009,Johannesburg,02-05-2009,CSK,DD,DD,field,New Wanderers Stadium,CSK,0,0,14,15,1550,1399
+82,82,83,2009,Port Elizabeth,03-05-2009,KKR,KXIP,KKR,bat,St George's Park,KXIP,0,0,13,14,1091,1257
+83,83,84,2009,Johannesburg,03-05-2009,MI,RCB,MI,bat,New Wanderers Stadium,RCB,0,0,13,16,1433,1461
+84,84,85,2009,East London,04-05-2009,CSK,DC,CSK,bat,Buffalo Park,CSK,0,0,14,16,1550,1718
+85,85,86,2009,Durban,05-05-2009,RR,KXIP,KXIP,field,Kingsmead,RR,0,0,13,14,1191,1257
+86,86,87,2009,Durban,05-05-2009,KKR,DD,KKR,bat,Kingsmead,DD,0,0,13,15,1091,1399
+87,87,88,2009,Centurion,06-05-2009,DC,MI,DC,bat,SuperSport Park,DC,0,0,16,13,1718,1433
+88,88,89,2009,Centurion,07-05-2009,RCB,RR,RR,field,SuperSport Park,RR,0,0,16,13,1461,1191
+89,89,90,2009,Centurion,07-05-2009,CSK,KXIP,CSK,bat,SuperSport Park,CSK,0,0,14,14,1550,1257
+90,90,91,2009,East London,08-05-2009,MI,DD,MI,bat,Buffalo Park,DD,0,0,13,15,1433,1399
+91,91,92,2009,Kimberley,09-05-2009,DC,KXIP,KXIP,field,De Beers Diamond Oval,KXIP,0,0,16,14,1718,1257
+92,92,93,2009,Kimberley,09-05-2009,RR,CSK,RR,bat,De Beers Diamond Oval,CSK,0,0,13,14,1191,1550
+93,93,94,2009,Port Elizabeth,10-05-2009,MI,RCB,MI,bat,St George's Park,MI,0,0,13,16,1433,1461
+94,94,95,2009,Johannesburg,10-05-2009,KKR,DD,DD,field,New Wanderers Stadium,DD,0,0,13,15,1091,1399
+95,95,96,2009,Kimberley,11-05-2009,DC,RR,DC,bat,De Beers Diamond Oval,DC,0,0,16,13,1718,1191
+96,96,97,2009,Centurion,12-05-2009,KKR,RCB,RCB,field,SuperSport Park,RCB,0,0,13,16,1091,1461
+97,97,98,2009,Centurion,12-05-2009,KXIP,MI,KXIP,bat,SuperSport Park,MI,0,0,14,13,1257,1433
+98,98,99,2009,Durban,13-05-2009,DD,DC,DC,field,Kingsmead,DD,0,0,15,16,1399,1718
+99,99,100,2009,Durban,14-05-2009,CSK,RCB,CSK,bat,Kingsmead,RCB,0,0,14,16,1550,1461
+100,100,101,2009,Durban,14-05-2009,RR,MI,RR,bat,Kingsmead,RR,0,0,13,13,1191,1433
+101,101,102,2009,Bloemfontein,15-05-2009,DD,KXIP,KXIP,field,OUTsurance Oval,KXIP,0,0,15,14,1399,1257
+102,102,103,2009,Port Elizabeth,16-05-2009,MI,CSK,MI,bat,St George's Park,CSK,0,0,13,14,1433,1550
+103,103,104,2009,Johannesburg,16-05-2009,KKR,DC,DC,field,New Wanderers Stadium,DC,0,0,13,16,1091,1718
+104,104,105,2009,Johannesburg,17-05-2009,KXIP,DC,DC,field,New Wanderers Stadium,KXIP,0,0,14,16,1257,1718
+105,105,106,2009,Bloemfontein,17-05-2009,DD,RR,DD,bat,OUTsurance Oval,DD,0,0,15,13,1399,1191
+106,106,107,2009,Centurion,18-05-2009,CSK,KKR,CSK,bat,SuperSport Park,KKR,0,0,14,13,1550,1091
+107,107,108,2009,Johannesburg,19-05-2009,DD,RCB,DD,bat,New Wanderers Stadium,RCB,0,0,15,16,1399,1461
+108,108,109,2009,Durban,20-05-2009,RR,KKR,KKR,field,Kingsmead,KKR,0,0,13,13,1191,1091
+109,109,110,2009,Durban,20-05-2009,CSK,KXIP,CSK,bat,Kingsmead,CSK,0,0,14,14,1550,1257
+110,110,111,2009,Centurion,21-05-2009,MI,DD,DD,field,SuperSport Park,DD,0,0,13,15,1433,1399
+111,111,112,2009,Centurion,21-05-2009,RCB,DC,RCB,bat,SuperSport Park,RCB,0,0,16,16,1461,1718
+112,112,113,2009,Centurion,22-05-2009,DD,DC,DC,field,SuperSport Park,DC,0,0,15,16,1399,1718
+113,113,114,2009,Johannesburg,23-05-2009,CSK,RCB,RCB,field,New Wanderers Stadium,RCB,0,0,14,16,1550,1461
+114,114,115,2009,Johannesburg,24-05-2009,DC,RCB,RCB,field,New Wanderers Stadium,DC,0,0,16,16,1718,1461
+115,115,116,2010,Mumbai,12-03-2010,KKR,DC,DC,field,Dr DY Patil Sports Academy,KKR,0,0,14,16,1222,1694
+116,116,117,2010,Mumbai,13-03-2010,MI,RR,MI,bat,Brabourne Stadium,MI,0,0,16,14,1682,1339
+117,117,118,2010,Chandigarh,13-03-2010,KXIP,DD,DD,field,"Punjab Cricket Association Stadium, Mohali",DD,0,0,14,14,1433,1314
+118,118,119,2010,Kolkata,14-03-2010,RCB,KKR,KKR,field,Eden Gardens,KKR,0,0,16,14,1802,1222
+119,119,120,2010,Chennai,14-03-2010,DC,CSK,DC,bat,"MA Chidambaram Stadium, Chepauk",DC,0,0,16,16,1694,1826
+120,120,121,2010,Ahmedabad,15-03-2010,RR,DD,DD,field,"Sardar Patel Stadium, Motera",DD,0,0,14,14,1339,1314
+121,121,122,2010,Bangalore,16-03-2010,KXIP,RCB,KXIP,bat,M Chinnaswamy Stadium,RCB,0,0,14,16,1433,1802
+122,122,123,2010,Kolkata,16-03-2010,CSK,KKR,CSK,bat,Eden Gardens,CSK,0,0,16,14,1826,1222
+123,123,124,2010,Delhi,17-03-2010,MI,DD,DD,field,Feroz Shah Kotla,MI,0,0,16,14,1682,1314
+124,124,125,2010,Bangalore,18-03-2010,RR,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,14,16,1339,1802
+125,125,126,2010,Delhi,19-03-2010,DD,CSK,DD,bat,Feroz Shah Kotla,CSK,0,0,14,16,1314,1826
+126,126,127,2010,Cuttack,19-03-2010,DC,KXIP,KXIP,field,Barabati Stadium,DC,0,0,16,14,1694,1433
+127,127,128,2010,Ahmedabad,20-03-2010,RR,KKR,RR,bat,"Sardar Patel Stadium, Motera",RR,0,0,14,14,1339,1222
+128,128,129,2010,Mumbai,20-03-2010,MI,RCB,MI,bat,Brabourne Stadium,RCB,0,0,16,16,1682,1802
+129,129,130,2010,Cuttack,21-03-2010,DC,DD,DC,bat,Barabati Stadium,DC,0,0,16,14,1694,1314
+130,130,131,2010,Chennai,21-03-2010,KXIP,CSK,CSK,field,"MA Chidambaram Stadium, Chepauk",KXIP,0,0,14,16,1433,1826
+131,131,132,2010,Mumbai,22-03-2010,KKR,MI,KKR,bat,Brabourne Stadium,MI,0,0,14,16,1222,1682
+132,132,133,2010,Bangalore,23-03-2010,RCB,CSK,CSK,field,M Chinnaswamy Stadium,RCB,0,0,16,16,1802,1826
+133,133,134,2010,Chandigarh,24-03-2010,RR,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",RR,0,0,14,14,1339,1433
+134,134,135,2010,Mumbai,25-03-2010,CSK,MI,MI,field,Brabourne Stadium,MI,0,0,16,16,1826,1682
+135,135,136,2010,Ahmedabad,26-03-2010,DC,RR,DC,bat,"Sardar Patel Stadium, Motera",RR,0,0,16,14,1694,1339
+136,136,137,2010,Chandigarh,27-03-2010,KKR,KXIP,KKR,bat,"Punjab Cricket Association Stadium, Mohali",KKR,0,0,14,14,1222,1433
+137,137,138,2010,Bangalore,25-03-2010,DD,RCB,RCB,field,M Chinnaswamy Stadium,DD,0,0,14,16,1314,1802
+138,138,139,2010,Ahmedabad,28-03-2010,RR,CSK,RR,bat,"Sardar Patel Stadium, Motera",RR,0,0,14,16,1339,1826
+139,139,140,2010,Mumbai,28-03-2010,MI,DC,DC,field,Dr DY Patil Sports Academy,MI,0,0,16,16,1682,1694
+140,140,141,2010,Delhi,29-03-2010,DD,KKR,DD,bat,Feroz Shah Kotla,DD,0,0,14,14,1314,1222
+141,141,142,2010,Mumbai,30-03-2010,KXIP,MI,MI,field,Brabourne Stadium,MI,0,0,14,16,1433,1682
+142,142,143,2010,Chennai,31-03-2010,RCB,CSK,RCB,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,16,1802,1826
+143,143,144,2010,Delhi,31-03-2010,DD,RR,DD,bat,Feroz Shah Kotla,DD,0,0,14,14,1314,1339
+144,144,145,2010,Kolkata,01-04-2010,KKR,DC,KKR,bat,Eden Gardens,KKR,0,0,14,16,1222,1694
+145,145,146,2010,Chandigarh,02-04-2010,KXIP,RCB,KXIP,bat,"Punjab Cricket Association Stadium, Mohali",RCB,0,0,14,16,1433,1802
+146,146,147,2010,Chennai,03-04-2010,CSK,RR,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,14,1826,1339
+147,147,148,2010,Mumbai,03-04-2010,MI,DC,MI,bat,Brabourne Stadium,MI,0,0,16,16,1682,1694
+148,148,149,2010,Kolkata,04-04-2010,KKR,KXIP,KKR,bat,Eden Gardens,KXIP,0,0,14,14,1222,1433
+149,149,150,2010,Delhi,04-04-2010,DD,RCB,DD,bat,Feroz Shah Kotla,DD,0,0,14,16,1314,1802
+150,150,151,2010,Nagpur,05-04-2010,RR,DC,RR,bat,"Vidarbha Cricket Association Stadium, Jamtha",RR,0,0,14,16,1339,1694
+151,151,152,2010,Chennai,06-04-2010,CSK,MI,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,16,1826,1682
+152,152,153,2010,Jaipur,07-04-2010,KXIP,RR,KXIP,bat,Sawai Mansingh Stadium,RR,0,0,14,14,1433,1339
+153,153,154,2010,Kolkata,07-04-2010,KKR,DD,KKR,bat,Eden Gardens,KKR,0,0,14,14,1222,1314
+154,154,155,2010,Bangalore,08-04-2010,RCB,DC,DC,field,M Chinnaswamy Stadium,DC,0,0,16,16,1802,1694
+155,155,156,2010,Chandigarh,09-04-2010,MI,KXIP,MI,bat,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,16,14,1682,1433
+156,156,157,2010,Nagpur,10-04-2010,CSK,DC,CSK,bat,"Vidarbha Cricket Association Stadium, Jamtha",DC,0,0,16,16,1826,1694
+157,157,158,2010,Bangalore,10-04-2010,KKR,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,14,16,1222,1802
+158,158,159,2010,Delhi,11-04-2010,DD,KXIP,DD,bat,Feroz Shah Kotla,KXIP,0,0,14,14,1314,1433
+159,159,160,2010,Jaipur,11-04-2010,MI,RR,RR,field,Sawai Mansingh Stadium,MI,0,0,16,14,1682,1339
+160,160,161,2010,Nagpur,12-04-2010,DC,RCB,RCB,field,"Vidarbha Cricket Association Stadium, Jamtha",DC,0,0,16,16,1694,1802
+161,161,162,2010,Mumbai,13-04-2010,MI,DD,MI,bat,Brabourne Stadium,MI,0,0,16,14,1682,1314
+162,162,163,2010,Chennai,13-04-2010,KKR,CSK,KKR,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,14,16,1222,1826
+163,163,164,2010,Jaipur,14-04-2010,RR,RCB,RR,bat,Sawai Mansingh Stadium,RCB,0,0,14,16,1339,1802
+164,164,165,2010,Chennai,15-04-2010,CSK,DD,CSK,bat,"MA Chidambaram Stadium, Chepauk",DD,0,0,16,14,1826,1314
+165,165,166,2010,Dharamsala,16-04-2010,KXIP,DC,DC,field,Himachal Pradesh Cricket Association Stadium,DC,0,0,14,16,1433,1694
+166,166,167,2010,Bangalore,17-04-2010,MI,RCB,RCB,field,M Chinnaswamy Stadium,MI,0,0,16,16,1682,1802
+167,167,168,2010,Kolkata,17-04-2010,RR,KKR,RR,bat,Eden Gardens,KKR,0,0,14,14,1339,1222
+168,168,169,2010,Dharamsala,18-04-2010,KXIP,CSK,CSK,field,Himachal Pradesh Cricket Association Stadium,CSK,0,0,14,16,1433,1826
+169,169,170,2010,Delhi,18-04-2010,DC,DD,DC,bat,Feroz Shah Kotla,DC,0,0,16,14,1694,1314
+170,170,171,2010,Kolkata,19-04-2010,MI,KKR,MI,bat,Eden Gardens,KKR,0,0,16,14,1682,1222
+171,171,172,2010,Mumbai,21-04-2010,MI,RCB,MI,bat,Dr DY Patil Sports Academy,MI,0,0,16,16,1682,1802
+172,172,173,2010,Mumbai,22-04-2010,CSK,DC,CSK,bat,Dr DY Patil Sports Academy,CSK,0,0,16,16,1826,1694
+173,173,174,2010,Mumbai,24-04-2010,DC,RCB,DC,bat,Dr DY Patil Sports Academy,RCB,0,0,16,16,1694,1802
+174,174,175,2010,Mumbai,25-04-2010,CSK,MI,CSK,bat,Dr DY Patil Sports Academy,CSK,0,0,16,16,1826,1682
+175,175,176,2011,Chennai,08-04-2011,CSK,KKR,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,15,1773,1541
+176,176,177,2011,Hyderabad,09-04-2011,DC,RR,RR,field,"Rajiv Gandhi International Stadium, Uppal",RR,0,0,14,13,1617,1188
+177,177,178,2011,Kochi,09-04-2011,KTK,RCB,KTK,bat,Nehru Stadium,RCB,0,0,14,16,1338,1737
+178,178,179,2011,Delhi,10-04-2011,DD,MI,DD,bat,Feroz Shah Kotla,MI,0,0,14,16,1350,1618
+179,179,180,2011,Mumbai,10-04-2011,KXIP,PW,KXIP,bat,Dr DY Patil Sports Academy,PW,0,0,14,14,1624,1307
+180,180,181,2011,Kolkata,11-04-2011,KKR,DC,KKR,bat,Eden Gardens,KKR,0,0,15,14,1541,1617
+181,181,182,2011,Jaipur,12-04-2011,DD,RR,DD,bat,Sawai Mansingh Stadium,RR,0,0,14,13,1350,1188
+182,182,183,2011,Bangalore,12-04-2011,RCB,MI,MI,field,M Chinnaswamy Stadium,MI,0,0,16,16,1737,1618
+183,183,184,2011,Chandigarh,13-04-2011,CSK,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,16,14,1773,1624
+184,184,185,2011,Mumbai,13-04-2011,KTK,PW,KTK,bat,Dr DY Patil Sports Academy,PW,0,0,14,14,1338,1307
+185,185,186,2011,Hyderabad,14-04-2011,DC,RCB,RCB,field,"Rajiv Gandhi International Stadium, Uppal",DC,0,0,14,16,1617,1737
+186,186,187,2011,Jaipur,15-04-2011,RR,KKR,KKR,field,Sawai Mansingh Stadium,KKR,0,0,13,15,1188,1541
+187,187,188,2011,Mumbai,15-04-2011,MI,KTK,KTK,field,Wankhede Stadium,KTK,0,0,16,14,1618,1338
+188,188,189,2011,Chennai,16-04-2011,CSK,RCB,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,16,1773,1737
+189,189,190,2011,Hyderabad,16-04-2011,DC,KXIP,KXIP,field,"Rajiv Gandhi International Stadium, Uppal",KXIP,0,0,14,14,1617,1624
+190,190,191,2011,Mumbai,17-04-2011,PW,DD,DD,field,Dr DY Patil Sports Academy,DD,0,0,14,14,1307,1350
+191,191,192,2011,Kolkata,17-04-2011,RR,KKR,KKR,field,Eden Gardens,KKR,0,0,13,15,1188,1541
+192,192,193,2011,Kochi,18-04-2011,CSK,KTK,KTK,field,Nehru Stadium,KTK,0,0,16,14,1773,1338
+193,193,194,2011,Delhi,19-04-2011,DC,DD,DC,bat,Feroz Shah Kotla,DC,0,0,14,14,1617,1350
+194,194,195,2011,Mumbai,20-04-2011,PW,MI,PW,bat,Wankhede Stadium,MI,0,0,14,16,1307,1618
+195,195,196,2011,Kolkata,20-04-2011,KTK,KKR,KKR,field,Eden Gardens,KTK,0,0,14,15,1338,1541
+196,196,197,2011,Chandigarh,21-04-2011,KXIP,RR,RR,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,14,13,1624,1188
+197,197,198,2011,Mumbai,22-04-2011,MI,CSK,CSK,field,Wankhede Stadium,MI,0,0,16,16,1618,1773
+198,198,199,2011,Kolkata,22-04-2011,KKR,RCB,RCB,field,Eden Gardens,RCB,0,0,15,16,1541,1737
+199,199,200,2011,Delhi,23-04-2011,DD,KXIP,KXIP,field,Feroz Shah Kotla,DD,0,0,14,14,1350,1624
+200,200,201,2011,Hyderabad,24-04-2011,MI,DC,DC,field,"Rajiv Gandhi International Stadium, Uppal",MI,0,0,16,14,1618,1617
+201,201,202,2011,Jaipur,24-04-2011,KTK,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,14,13,1338,1188
+202,202,203,2011,Chennai,25-04-2011,CSK,PW,PW,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,14,1773,1307
+203,203,204,2011,Delhi,26-04-2011,DD,RCB,RCB,field,Feroz Shah Kotla,RCB,0,0,14,16,1350,1737
+204,204,205,2011,Mumbai,27-04-2011,PW,CSK,PW,bat,Dr DY Patil Sports Academy,CSK,0,0,14,16,1307,1773
+205,205,206,2011,Kochi,27-04-2011,DC,KTK,KTK,field,Nehru Stadium,DC,0,0,14,14,1617,1338
+206,206,207,2011,Delhi,28-04-2011,KKR,DD,DD,field,Feroz Shah Kotla,KKR,0,0,15,14,1541,1350
+207,207,208,2011,Jaipur,29-04-2011,MI,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,16,13,1618,1188
+208,208,209,2011,Bangalore,29-04-2011,RCB,PW,PW,field,M Chinnaswamy Stadium,RCB,0,0,16,14,1737,1307
+209,209,210,2011,Kochi,30-04-2011,DD,KTK,DD,bat,Nehru Stadium,DD,0,0,14,14,1350,1338
+210,210,211,2011,Kolkata,30-04-2011,KXIP,KKR,KKR,field,Eden Gardens,KKR,0,0,14,15,1624,1541
+211,211,212,2011,Jaipur,01-05-2011,PW,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,14,13,1307,1188
+212,212,213,2011,Chennai,01-05-2011,CSK,DC,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,14,1773,1617
+213,213,214,2011,Mumbai,02-05-2011,MI,KXIP,KXIP,field,Wankhede Stadium,MI,0,0,16,14,1618,1624
+214,214,215,2011,Delhi,02-05-2011,DD,KTK,KTK,field,Feroz Shah Kotla,KTK,0,0,14,14,1350,1338
+215,215,216,2011,Hyderabad,03-05-2011,KKR,DC,DC,field,"Rajiv Gandhi International Stadium, Uppal",KKR,0,0,15,14,1541,1617
+216,216,217,2011,Chennai,04-05-2011,RR,CSK,RR,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,13,16,1188,1773
+217,217,218,2011,Mumbai,04-05-2011,MI,PW,PW,field,Dr DY Patil Sports Academy,MI,0,0,16,14,1618,1307
+218,218,219,2011,Kochi,05-05-2011,KTK,KKR,KKR,field,Nehru Stadium,KTK,0,0,14,15,1338,1541
+219,219,220,2011,Hyderabad,05-05-2011,DC,DD,DD,field,"Rajiv Gandhi International Stadium, Uppal",DD,0,0,14,14,1617,1350
+220,220,221,2011,Bangalore,06-05-2011,RCB,KXIP,KXIP,field,M Chinnaswamy Stadium,RCB,0,0,16,14,1737,1624
+221,221,222,2011,Kolkata,07-05-2011,CSK,KKR,CSK,bat,Eden Gardens,KKR,0,0,16,15,1773,1541
+222,222,223,2011,Mumbai,07-05-2011,MI,DD,DD,field,Wankhede Stadium,MI,0,0,16,14,1618,1350
+223,223,224,2011,Bangalore,08-05-2011,KTK,RCB,KTK,bat,M Chinnaswamy Stadium,RCB,0,0,14,16,1338,1737
+224,224,225,2011,Chandigarh,08-05-2011,KXIP,PW,KXIP,bat,"Punjab Cricket Association Stadium, Mohali",PW,0,0,14,14,1624,1307
+225,225,226,2011,Jaipur,09-05-2011,CSK,RR,RR,field,Sawai Mansingh Stadium,CSK,0,0,16,13,1773,1188
+226,226,227,2011,Hyderabad,10-05-2011,DC,PW,DC,bat,"Rajiv Gandhi International Stadium, Uppal",PW,0,0,14,14,1617,1307
+227,227,228,2011,Chandigarh,10-05-2011,KXIP,MI,MI,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,14,16,1624,1618
+228,228,229,2011,Jaipur,11-05-2011,RR,RCB,RCB,field,Sawai Mansingh Stadium,RCB,0,0,13,16,1188,1737
+229,229,230,2011,Chennai,12-05-2011,CSK,DD,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,14,1773,1350
+230,230,231,2011,Indore,13-05-2011,KTK,KXIP,KXIP,field,Holkar Cricket Stadium,KXIP,0,0,14,14,1338,1624
+231,231,232,2011,Bangalore,14-05-2011,KKR,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,15,16,1541,1737
+232,232,233,2011,Mumbai,14-05-2011,DC,MI,DC,bat,Wankhede Stadium,DC,0,0,14,16,1617,1618
+233,233,234,2011,Dharamsala,15-05-2011,KXIP,DD,DD,field,Himachal Pradesh Cricket Association Stadium,KXIP,0,0,14,14,1624,1350
+234,234,235,2011,Indore,15-05-2011,RR,KTK,KTK,field,Holkar Cricket Stadium,KTK,0,0,13,14,1188,1338
+235,235,236,2011,Mumbai,16-05-2011,PW,DC,DC,field,Dr DY Patil Sports Academy,DC,0,0,14,14,1307,1617
+236,236,237,2011,Dharamsala,17-05-2011,KXIP,RCB,KXIP,bat,Himachal Pradesh Cricket Association Stadium,KXIP,0,0,14,16,1624,1737
+237,237,238,2011,Chennai,18-05-2011,CSK,KTK,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,14,1773,1338
+238,238,239,2011,Mumbai,19-05-2011,PW,KKR,KKR,field,Dr DY Patil Sports Academy,KKR,0,0,14,15,1307,1541
+239,239,240,2011,Mumbai,20-05-2011,MI,RR,MI,bat,Wankhede Stadium,RR,0,0,16,13,1618,1188
+240,240,241,2011,Dharamsala,21-05-2011,DC,KXIP,KXIP,field,Himachal Pradesh Cricket Association Stadium,DC,0,0,14,14,1617,1624
+241,241,242,2011,Delhi,21-05-2011,DD,PW,DD,bat,Feroz Shah Kotla,,0,0,14,14,1350,1307
+242,242,243,2011,Bangalore,22-05-2011,CSK,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,16,16,1773,1737
+243,243,244,2011,Kolkata,22-05-2011,KKR,MI,MI,field,Eden Gardens,MI,0,0,15,16,1541,1618
+244,244,245,2011,Mumbai,24-05-2011,RCB,CSK,CSK,field,Wankhede Stadium,CSK,0,0,16,16,1737,1773
+245,245,246,2011,Mumbai,25-05-2011,KKR,MI,MI,field,Wankhede Stadium,MI,0,0,15,16,1541,1618
+246,246,247,2011,Chennai,27-05-2011,RCB,MI,MI,field,"MA Chidambaram Stadium, Chepauk",RCB,0,0,16,16,1737,1618
+247,247,248,2011,Chennai,28-05-2011,CSK,RCB,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,16,1773,1737
+248,248,249,2012,Chennai,04-04-2012,CSK,MI,MI,field,"MA Chidambaram Stadium, Chepauk",MI,0,0,18,17,1865,1758
+249,249,250,2012,Kolkata,05-04-2012,KKR,DD,DD,field,Eden Gardens,DD,0,0,17,18,1594,1626
+250,250,251,2012,Mumbai,06-04-2012,PW,MI,MI,field,Wankhede Stadium,PW,0,0,16,17,1213,1758
+251,251,252,2012,Jaipur,06-04-2012,RR,KXIP,KXIP,field,Sawai Mansingh Stadium,RR,0,0,16,16,1355,1576
+252,252,253,2012,Bangalore,07-04-2012,RCB,DD,DD,field,M Chinnaswamy Stadium,RCB,0,0,15,18,1721,1626
+253,253,254,2012,Visakhapatnam,07-04-2012,CSK,DC,DC,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,CSK,0,0,18,15,1865,1477
+254,254,255,2012,Jaipur,08-04-2012,RR,KKR,KKR,field,Sawai Mansingh Stadium,RR,0,0,16,17,1355,1594
+255,255,256,2012,Pune,08-04-2012,PW,KXIP,PW,bat,Subrata Roy Sahara Stadium,PW,0,0,16,16,1213,1576
+256,256,257,2012,Visakhapatnam,09-04-2012,DC,MI,DC,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,MI,0,0,15,17,1477,1758
+257,257,258,2012,Bangalore,10-04-2012,KKR,RCB,RCB,field,M Chinnaswamy Stadium,KKR,0,0,17,15,1594,1721
+258,258,259,2012,Delhi,10-04-2012,CSK,DD,DD,field,Feroz Shah Kotla,DD,0,0,18,18,1865,1626
+259,259,260,2012,Mumbai,11-04-2012,MI,RR,RR,field,Wankhede Stadium,MI,0,0,17,16,1758,1355
+260,260,261,2012,Chennai,12-04-2012,RCB,CSK,RCB,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,15,18,1721,1865
+261,261,262,2012,Chandigarh,12-04-2012,PW,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,16,16,1213,1576
+262,262,263,2012,Kolkata,13-04-2012,RR,KKR,RR,bat,Eden Gardens,KKR,0,0,16,17,1355,1594
+263,263,264,2012,Delhi,19-04-2012,DC,DD,DC,bat,Feroz Shah Kotla,DD,0,0,15,18,1477,1626
+264,264,265,2012,Pune,14-04-2012,CSK,PW,CSK,bat,Subrata Roy Sahara Stadium,PW,0,0,18,16,1865,1213
+265,265,266,2012,Kolkata,15-04-2012,KXIP,KKR,KKR,field,Eden Gardens,KXIP,0,0,16,17,1576,1594
+266,266,267,2012,Bangalore,15-04-2012,RR,RCB,RR,bat,M Chinnaswamy Stadium,RR,0,0,16,15,1355,1721
+267,267,268,2012,Mumbai,16-04-2012,MI,DD,DD,field,Wankhede Stadium,DD,0,0,17,18,1758,1626
+268,268,269,2012,Jaipur,17-04-2012,DC,RR,DC,bat,Sawai Mansingh Stadium,RR,0,0,15,16,1477,1355
+269,269,270,2012,Bangalore,17-04-2012,PW,RCB,PW,bat,M Chinnaswamy Stadium,RCB,0,0,16,15,1213,1721
+270,270,271,2012,Chandigarh,18-04-2012,KXIP,KKR,KXIP,bat,"Punjab Cricket Association Stadium, Mohali",KKR,0,0,16,17,1576,1594
+271,271,272,2012,Hyderabad,10-05-2012,DC,DD,DC,bat,"Rajiv Gandhi International Stadium, Uppal",DD,0,0,15,18,1477,1626
+272,272,273,2012,Chennai,19-04-2012,CSK,PW,PW,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,18,16,1865,1213
+273,273,274,2012,Chandigarh,20-04-2012,KXIP,RCB,RCB,field,"Punjab Cricket Association Stadium, Mohali",RCB,0,0,16,15,1576,1721
+274,274,275,2012,Chennai,21-04-2012,RR,CSK,RR,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,18,1355,1865
+275,275,276,2012,Delhi,21-04-2012,PW,DD,DD,field,Feroz Shah Kotla,PW,0,0,16,18,1213,1626
+276,276,277,2012,Mumbai,22-04-2012,MI,KXIP,MI,bat,Wankhede Stadium,KXIP,0,0,17,16,1758,1576
+277,277,278,2012,Cuttack,22-04-2012,DC,KKR,KKR,field,Barabati Stadium,KKR,0,0,15,17,1477,1594
+278,278,279,2012,Jaipur,23-04-2012,RCB,RR,RR,field,Sawai Mansingh Stadium,RCB,0,0,15,16,1721,1355
+279,279,280,2012,Pune,24-04-2012,PW,DD,PW,bat,Subrata Roy Sahara Stadium,DD,0,0,16,18,1213,1626
+280,280,281,2012,Chandigarh,25-04-2012,KXIP,MI,KXIP,bat,"Punjab Cricket Association Stadium, Mohali",MI,0,0,16,17,1576,1758
+281,281,282,2012,Pune,26-04-2012,DC,PW,DC,bat,Subrata Roy Sahara Stadium,DC,0,0,15,16,1477,1213
+282,282,283,2012,Delhi,27-04-2012,DD,MI,MI,field,Feroz Shah Kotla,DD,0,0,18,17,1626,1758
+283,283,284,2012,Chennai,28-04-2012,KXIP,CSK,KXIP,bat,"MA Chidambaram Stadium, Chepauk",KXIP,0,0,16,18,1576,1865
+284,284,285,2012,Kolkata,28-04-2012,KKR,RCB,KKR,bat,Eden Gardens,KKR,0,0,17,15,1594,1721
+285,285,286,2012,Delhi,29-04-2012,DD,RR,DD,bat,Feroz Shah Kotla,DD,0,0,18,16,1626,1355
+286,286,287,2012,Mumbai,29-04-2012,DC,MI,MI,field,Wankhede Stadium,MI,0,0,15,17,1477,1758
+287,287,288,2012,Chennai,30-04-2012,CSK,KKR,CSK,bat,"MA Chidambaram Stadium, Chepauk",KKR,0,0,18,17,1865,1594
+288,288,289,2012,Cuttack,01-05-2012,DC,PW,DC,bat,Barabati Stadium,DC,0,0,15,16,1477,1213
+289,289,290,2012,Jaipur,01-05-2012,RR,DD,RR,bat,Sawai Mansingh Stadium,DD,0,0,16,18,1355,1626
+290,290,291,2012,Bangalore,02-05-2012,RCB,KXIP,KXIP,field,M Chinnaswamy Stadium,KXIP,0,0,15,16,1721,1576
+291,291,292,2012,Pune,03-05-2012,MI,PW,MI,bat,Subrata Roy Sahara Stadium,MI,0,0,17,16,1758,1213
+292,292,293,2012,Chennai,04-05-2012,CSK,DC,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,18,15,1865,1477
+293,293,294,2012,Kolkata,05-05-2012,KKR,PW,KKR,bat,Eden Gardens,KKR,0,0,17,16,1594,1213
+294,294,295,2012,Chandigarh,05-05-2012,RR,KXIP,RR,bat,"Punjab Cricket Association Stadium, Mohali",RR,0,0,16,16,1355,1576
+295,295,296,2012,Mumbai,06-05-2012,CSK,MI,MI,field,Wankhede Stadium,MI,0,0,18,17,1865,1758
+296,296,297,2012,Bangalore,06-05-2012,DC,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,15,15,1477,1721
+297,297,298,2012,Delhi,07-05-2012,DD,KKR,DD,bat,Feroz Shah Kotla,KKR,0,0,18,17,1626,1594
+298,298,299,2012,Pune,08-05-2012,PW,RR,PW,bat,Subrata Roy Sahara Stadium,RR,0,0,16,16,1213,1355
+299,299,300,2012,Hyderabad,08-05-2012,KXIP,DC,DC,field,"Rajiv Gandhi International Stadium, Uppal",KXIP,0,0,16,15,1576,1477
+300,300,301,2012,Mumbai,09-05-2012,MI,RCB,RCB,field,Wankhede Stadium,RCB,0,0,17,15,1758,1721
+301,301,302,2012,Jaipur,10-05-2012,RR,CSK,CSK,field,Sawai Mansingh Stadium,CSK,0,0,16,18,1355,1865
+302,302,303,2012,Pune,11-05-2012,RCB,PW,PW,field,Subrata Roy Sahara Stadium,RCB,0,0,15,16,1721,1213
+303,303,304,2012,Kolkata,12-05-2012,MI,KKR,MI,bat,Eden Gardens,MI,0,0,17,17,1758,1594
+304,304,305,2012,Chennai,12-05-2012,DD,CSK,CSK,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,18,18,1626,1865
+305,305,306,2012,Jaipur,13-05-2012,RR,PW,RR,bat,Sawai Mansingh Stadium,RR,0,0,16,16,1355,1213
+306,306,307,2012,Chandigarh,13-05-2012,DC,KXIP,DC,bat,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,15,16,1477,1576
+307,307,308,2012,Bangalore,14-05-2012,RCB,MI,MI,field,M Chinnaswamy Stadium,MI,0,0,15,17,1721,1758
+308,308,309,2012,Kolkata,14-05-2012,KKR,CSK,CSK,field,Eden Gardens,CSK,0,0,17,18,1594,1865
+309,309,310,2012,Delhi,15-05-2012,KXIP,DD,KXIP,bat,Feroz Shah Kotla,DD,0,0,16,18,1576,1626
+310,310,311,2012,Mumbai,16-05-2012,KKR,MI,MI,field,Wankhede Stadium,KKR,0,0,17,17,1594,1758
+311,311,312,2012,Dharamsala,17-05-2012,CSK,KXIP,KXIP,field,Himachal Pradesh Cricket Association Stadium,KXIP,0,0,18,16,1865,1576
+312,312,313,2012,Delhi,17-05-2012,RCB,DD,DD,field,Feroz Shah Kotla,RCB,0,0,15,18,1721,1626
+313,313,314,2012,Hyderabad,18-05-2012,RR,DC,RR,bat,"Rajiv Gandhi International Stadium, Uppal",DC,0,0,16,15,1355,1477
+314,314,315,2012,Dharamsala,19-05-2012,KXIP,DD,DD,field,Himachal Pradesh Cricket Association Stadium,DD,0,0,16,18,1576,1626
+315,315,316,2012,Pune,19-05-2012,KKR,PW,KKR,bat,Subrata Roy Sahara Stadium,KKR,0,0,17,16,1594,1213
+316,316,317,2012,Hyderabad,20-05-2012,DC,RCB,RCB,field,"Rajiv Gandhi International Stadium, Uppal",DC,0,0,15,15,1477,1721
+317,317,318,2012,Jaipur,20-05-2012,RR,MI,RR,bat,Sawai Mansingh Stadium,MI,0,0,16,17,1355,1758
+318,318,319,2012,Pune,22-05-2012,KKR,DD,KKR,bat,Subrata Roy Sahara Stadium,KKR,0,0,17,18,1594,1626
+319,319,320,2012,Bangalore,23-05-2012,CSK,MI,MI,field,M Chinnaswamy Stadium,CSK,0,0,18,17,1865,1758
+320,320,321,2012,Chennai,25-05-2012,CSK,DD,DD,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,18,18,1865,1626
+321,321,322,2012,Chennai,27-05-2012,CSK,KKR,CSK,bat,"MA Chidambaram Stadium, Chepauk",KKR,0,0,18,17,1865,1594
+322,322,323,2013,Kolkata,03-04-2013,DD,KKR,KKR,field,Eden Gardens,KKR,0,0,16,16,1453,1619
+323,323,324,2013,Bangalore,04-04-2013,RCB,MI,MI,field,M Chinnaswamy Stadium,RCB,0,0,16,19,1807,2226
+324,324,325,2013,Hyderabad,05-04-2013,SH,PW,PW,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,17,16,1883,1446
+325,325,326,2013,Delhi,06-04-2013,RR,DD,RR,bat,Feroz Shah Kotla,RR,0,0,18,16,1967,1453
+326,326,327,2013,Chennai,06-04-2013,MI,CSK,MI,bat,"MA Chidambaram Stadium, Chepauk",MI,0,0,19,18,2226,2111
+327,327,328,2013,Pune,07-04-2013,PW,KXIP,PW,bat,Subrata Roy Sahara Stadium,KXIP,0,0,16,16,1446,1508
+328,328,329,2013,Hyderabad,07-04-2013,RCB,SH,RCB,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,16,17,1807,1883
+329,329,330,2013,Jaipur,08-04-2013,RR,KKR,KKR,field,Sawai Mansingh Stadium,RR,0,0,18,16,1967,1619
+330,330,331,2013,Mumbai,09-04-2013,MI,DD,MI,bat,Wankhede Stadium,MI,0,0,19,16,2226,1453
+331,331,332,2013,Chandigarh,10-04-2013,KXIP,CSK,CSK,field,"Punjab Cricket Association Stadium, Mohali",CSK,0,0,16,18,1508,2111
+332,332,333,2013,Bangalore,11-04-2013,KKR,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,16,16,1619,1807
+333,333,334,2013,Pune,11-04-2013,RR,PW,RR,bat,Subrata Roy Sahara Stadium,PW,0,0,18,16,1967,1446
+334,334,335,2013,Delhi,12-04-2013,DD,SH,DD,bat,Feroz Shah Kotla,SH,0,0,16,17,1453,1883
+335,335,336,2013,Mumbai,13-04-2013,MI,PW,MI,bat,Wankhede Stadium,MI,0,0,19,16,2226,1446
+336,336,337,2013,Chennai,13-04-2013,RCB,CSK,CSK,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,16,18,1807,2111
+337,337,338,2013,Kolkata,14-04-2013,KKR,SH,KKR,bat,Eden Gardens,KKR,0,0,16,17,1619,1883
+338,338,339,2013,Jaipur,14-04-2013,KXIP,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,16,18,1508,1967
+339,339,340,2013,Chennai,15-04-2013,PW,CSK,PW,bat,"MA Chidambaram Stadium, Chepauk",PW,0,0,16,18,1446,2111
+340,340,341,2013,Chandigarh,16-04-2013,KXIP,KKR,KKR,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,16,16,1508,1619
+341,341,342,2013,Bangalore,16-04-2013,DD,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,16,16,1453,1807
+342,342,343,2013,Pune,17-04-2013,SH,PW,PW,field,Subrata Roy Sahara Stadium,SH,0,0,17,16,1883,1446
+343,343,344,2013,Jaipur,17-04-2013,RR,MI,RR,bat,Sawai Mansingh Stadium,RR,0,0,18,19,1967,2226
+344,344,345,2013,Delhi,18-04-2013,CSK,DD,CSK,bat,Feroz Shah Kotla,CSK,0,0,18,16,2111,1453
+345,345,346,2013,Hyderabad,19-04-2013,KXIP,SH,KXIP,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,16,17,1508,1883
+346,346,347,2013,Kolkata,20-04-2013,KKR,CSK,KKR,bat,Eden Gardens,CSK,0,0,16,18,1619,2111
+347,347,348,2013,Bangalore,20-04-2013,RR,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,18,16,1967,1807
+348,348,349,2013,Delhi,21-04-2013,MI,DD,MI,bat,Feroz Shah Kotla,DD,0,0,19,16,2226,1453
+349,349,350,2013,Chandigarh,21-04-2013,PW,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,16,16,1446,1508
+350,350,351,2013,Chennai,22-04-2013,RR,CSK,RR,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,18,18,1967,2111
+351,351,352,2013,Bangalore,23-04-2013,RCB,PW,PW,field,M Chinnaswamy Stadium,RCB,0,0,16,16,1807,1446
+352,352,353,2013,Dharamsala,16-05-2013,KXIP,DD,DD,field,Himachal Pradesh Cricket Association Stadium,KXIP,0,0,16,16,1508,1453
+353,353,354,2013,Kolkata,24-04-2013,KKR,MI,KKR,bat,Eden Gardens,MI,0,0,16,19,1619,2226
+354,354,355,2013,Chennai,25-04-2013,SH,CSK,SH,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,17,18,1883,2111
+355,355,356,2013,Kolkata,26-04-2013,KXIP,KKR,KXIP,bat,Eden Gardens,KKR,0,0,16,16,1508,1619
+356,356,357,2013,Jaipur,27-04-2013,SH,RR,SH,bat,Sawai Mansingh Stadium,RR,0,0,17,18,1883,1967
+357,357,358,2013,Mumbai,27-04-2013,MI,RCB,MI,bat,Wankhede Stadium,MI,0,0,19,16,2226,1807
+358,358,359,2013,Chennai,28-04-2013,CSK,KKR,KKR,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,18,16,2111,1619
+359,359,360,2013,Raipur,28-04-2013,DD,PW,PW,field,Shaheed Veer Narayan Singh International Stadium,DD,0,0,16,16,1453,1446
+360,360,361,2013,Jaipur,29-04-2013,RCB,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,16,18,1807,1967
+361,361,362,2013,Mumbai,29-04-2013,MI,KXIP,MI,bat,Wankhede Stadium,MI,0,0,19,16,2226,1508
+362,362,363,2013,Pune,30-04-2013,CSK,PW,CSK,bat,Subrata Roy Sahara Stadium,CSK,0,0,18,16,2111,1446
+363,363,364,2013,Hyderabad,01-05-2013,MI,SH,MI,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,19,17,2226,1883
+364,364,365,2013,Raipur,01-05-2013,KKR,DD,KKR,bat,Shaheed Veer Narayan Singh International Stadium,DD,0,0,16,16,1619,1453
+365,365,366,2013,Chennai,02-05-2013,CSK,KXIP,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,18,16,2111,1508
+366,366,367,2013,Pune,02-05-2013,RCB,PW,RCB,bat,Subrata Roy Sahara Stadium,RCB,0,0,16,16,1807,1446
+367,367,368,2013,Kolkata,03-05-2013,RR,KKR,RR,bat,Eden Gardens,KKR,0,0,18,16,1967,1619
+368,368,369,2013,Hyderabad,04-05-2013,DD,SH,DD,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,16,17,1453,1883
+369,369,370,2013,Bangalore,14-05-2013,RCB,KXIP,KXIP,field,M Chinnaswamy Stadium,KXIP,0,0,16,16,1807,1508
+370,370,371,2013,Mumbai,05-05-2013,MI,CSK,MI,bat,Wankhede Stadium,MI,0,0,19,18,2226,2111
+371,371,372,2013,Jaipur,05-05-2013,PW,RR,PW,bat,Sawai Mansingh Stadium,RR,0,0,16,18,1446,1967
+372,372,373,2013,Bangalore,09-04-2013,SH,RCB,SH,bat,M Chinnaswamy Stadium,RCB,0,0,17,16,1883,1807
+373,373,374,2013,Jaipur,07-05-2013,DD,RR,DD,bat,Sawai Mansingh Stadium,RR,0,0,16,18,1453,1967
+374,374,375,2013,Mumbai,07-05-2013,MI,KKR,MI,bat,Wankhede Stadium,MI,0,0,19,16,2226,1619
+375,375,376,2013,Hyderabad,08-05-2013,CSK,SH,SH,field,"Rajiv Gandhi International Stadium, Uppal",CSK,0,0,18,17,2111,1883
+376,376,377,2013,Chandigarh,09-05-2013,KXIP,RR,RR,field,"Punjab Cricket Association Stadium, Mohali",RR,0,0,16,18,1508,1967
+377,377,378,2013,Pune,09-05-2013,KKR,PW,KKR,bat,Subrata Roy Sahara Stadium,KKR,0,0,16,16,1619,1446
+378,378,379,2013,Delhi,10-05-2013,RCB,DD,DD,field,Feroz Shah Kotla,RCB,0,0,16,16,1807,1453
+379,379,380,2013,Pune,11-05-2013,PW,MI,PW,bat,Subrata Roy Sahara Stadium,MI,0,0,16,19,1446,2226
+380,380,381,2013,Chandigarh,11-05-2013,SH,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",SH,0,0,17,16,1883,1508
+381,381,382,2013,Ranchi,12-05-2013,RCB,KKR,KKR,field,JSCA International Stadium Complex,KKR,0,0,16,16,1807,1619
+382,382,383,2013,Jaipur,12-05-2013,CSK,RR,RR,field,Sawai Mansingh Stadium,RR,0,0,18,18,2111,1967
+383,383,384,2013,Delhi,23-04-2013,DD,KXIP,KXIP,field,Feroz Shah Kotla,KXIP,0,0,16,16,1453,1508
+384,384,385,2013,Mumbai,13-05-2013,SH,MI,SH,bat,Wankhede Stadium,MI,0,0,17,19,1883,2226
+385,385,386,2013,Ranchi,15-05-2013,PW,KKR,KKR,field,JSCA International Stadium Complex,PW,0,0,16,16,1446,1619
+386,386,387,2013,Chennai,14-05-2013,CSK,DD,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,18,16,2111,1453
+387,387,388,2013,Mumbai,15-05-2013,MI,RR,RR,field,Wankhede Stadium,MI,0,0,19,18,2226,1967
+388,388,389,2013,Chandigarh,06-05-2013,RCB,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,16,16,1807,1508
+389,389,390,2013,Hyderabad,17-05-2013,SH,RR,SH,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,17,18,1883,1967
+390,390,391,2013,Dharamsala,18-05-2013,KXIP,MI,MI,field,Himachal Pradesh Cricket Association Stadium,KXIP,0,0,16,19,1508,2226
+391,391,392,2013,Pune,19-05-2013,PW,DD,PW,bat,Subrata Roy Sahara Stadium,PW,0,0,16,16,1446,1453
+392,392,393,2013,Bangalore,18-05-2013,RCB,CSK,CSK,field,M Chinnaswamy Stadium,RCB,0,0,16,18,1807,2111
+393,393,394,2013,Hyderabad,19-05-2013,KKR,SH,KKR,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,16,17,1619,1883
+394,394,395,2013,Delhi,21-05-2013,CSK,MI,CSK,bat,Feroz Shah Kotla,CSK,0,0,18,19,2111,2226
+395,395,396,2013,Delhi,22-05-2013,SH,RR,SH,bat,Feroz Shah Kotla,RR,0,0,17,18,1883,1967
+396,396,397,2013,Kolkata,24-05-2013,RR,MI,RR,bat,Eden Gardens,MI,0,0,18,19,1967,2226
+397,397,398,2013,Kolkata,26-05-2013,MI,CSK,MI,bat,Eden Gardens,MI,0,0,19,18,2226,2111
+398,398,399,2014,Abu Dhabi,16-04-2014,KKR,MI,KKR,bat,Sheikh Zayed Stadium,KKR,0,0,16,15,1719,1423
+399,399,400,2014,Sharjah,17-04-2014,DD,RCB,RCB,field,Sharjah Cricket Stadium,RCB,0,0,14,14,1116,1436
+400,400,401,2014,Abu Dhabi,18-04-2014,CSK,KXIP,CSK,bat,Sheikh Zayed Stadium,KXIP,0,0,16,17,1848,2031
+401,401,402,2014,Abu Dhabi,18-04-2014,SH,RR,RR,field,Sheikh Zayed Stadium,RR,0,0,14,14,1501,1390
+402,402,403,2014,,19-04-2014,MI,RCB,RCB,field,Dubai International Cricket Stadium,RCB,0,0,15,14,1423,1436
+403,403,404,2014,,19-04-2014,KKR,DD,KKR,bat,Dubai International Cricket Stadium,DD,0,0,16,14,1719,1116
+404,404,405,2014,Sharjah,20-04-2014,RR,KXIP,KXIP,field,Sharjah Cricket Stadium,KXIP,0,0,14,17,1390,2031
+405,405,406,2014,Abu Dhabi,21-04-2014,CSK,DD,CSK,bat,Sheikh Zayed Stadium,CSK,0,0,16,14,1848,1116
+406,406,407,2014,Sharjah,22-04-2014,KXIP,SH,SH,field,Sharjah Cricket Stadium,KXIP,0,0,17,14,2031,1501
+407,407,408,2014,,23-04-2014,CSK,RR,RR,field,Dubai International Cricket Stadium,CSK,0,0,16,14,1848,1390
+408,408,409,2014,Sharjah,24-04-2014,KKR,RCB,RCB,field,Sharjah Cricket Stadium,KKR,0,0,16,14,1719,1436
+409,409,410,2014,,25-04-2014,SH,DD,SH,bat,Dubai International Cricket Stadium,SH,0,0,14,14,1501,1116
+410,410,411,2014,,25-04-2014,MI,CSK,MI,bat,Dubai International Cricket Stadium,CSK,0,0,15,16,1423,1848
+411,411,412,2014,Abu Dhabi,26-04-2014,RCB,RR,RR,field,Sheikh Zayed Stadium,RR,0,0,14,14,1436,1390
+412,412,413,2014,Abu Dhabi,26-04-2014,KXIP,KKR,KKR,field,Sheikh Zayed Stadium,KXIP,0,0,17,16,2031,1719
+413,413,414,2014,Sharjah,27-04-2014,MI,DD,MI,bat,Sharjah Cricket Stadium,DD,0,0,15,14,1423,1116
+414,414,415,2014,Sharjah,27-04-2014,SH,CSK,SH,bat,Sharjah Cricket Stadium,CSK,0,0,14,16,1501,1848
+415,415,416,2014,,28-04-2014,RCB,KXIP,KXIP,field,Dubai International Cricket Stadium,KXIP,0,0,14,17,1436,2031
+416,416,417,2014,Abu Dhabi,29-04-2014,RR,KKR,RR,bat,Sheikh Zayed Stadium,RR,0,0,14,16,1390,1719
+417,417,418,2014,,30-04-2014,SH,MI,MI,field,Dubai International Cricket Stadium,SH,0,0,14,15,1501,1423
+418,418,419,2014,Ranchi,02-05-2014,CSK,KKR,CSK,bat,JSCA International Stadium Complex,CSK,0,0,16,16,1848,1719
+419,419,420,2014,Mumbai,03-05-2014,KXIP,MI,KXIP,bat,Wankhede Stadium,MI,0,0,17,15,2031,1423
+420,420,421,2014,Delhi,03-05-2014,DD,RR,RR,field,Feroz Shah Kotla,RR,0,0,14,14,1116,1390
+421,421,422,2014,Bangalore,04-05-2014,SH,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,14,14,1501,1436
+422,422,423,2014,Ahmedabad,05-05-2014,RR,KKR,KKR,field,"Sardar Patel Stadium, Motera",RR,0,0,14,16,1390,1719
+423,423,424,2014,Delhi,05-05-2014,DD,CSK,CSK,field,Feroz Shah Kotla,CSK,0,0,14,16,1116,1848
+424,424,425,2014,Mumbai,06-05-2014,MI,RCB,RCB,field,Wankhede Stadium,MI,0,0,15,14,1423,1436
+425,425,426,2014,Delhi,07-05-2014,DD,KKR,DD,bat,Feroz Shah Kotla,KKR,0,0,14,16,1116,1719
+426,426,427,2014,Cuttack,07-05-2014,KXIP,CSK,CSK,field,Barabati Stadium,KXIP,0,0,17,16,2031,1848
+427,427,428,2014,Ahmedabad,08-05-2014,SH,RR,RR,field,"Sardar Patel Stadium, Motera",SH,0,0,14,14,1501,1390
+428,428,429,2014,Bangalore,09-05-2014,KXIP,RCB,RCB,field,M Chinnaswamy Stadium,KXIP,0,0,17,14,2031,1436
+429,429,430,2014,Delhi,10-05-2014,DD,SH,SH,field,Feroz Shah Kotla,SH,0,0,14,14,1116,1501
+430,430,431,2014,Mumbai,10-05-2014,MI,CSK,CSK,field,Wankhede Stadium,CSK,0,0,15,16,1423,1848
+431,431,432,2014,Cuttack,11-05-2014,KXIP,KKR,KKR,field,Barabati Stadium,KKR,0,0,17,16,2031,1719
+432,432,433,2014,Bangalore,11-05-2014,RCB,RR,RCB,bat,M Chinnaswamy Stadium,RR,0,0,14,14,1436,1390
+433,433,434,2014,Hyderabad,12-05-2014,SH,MI,SH,bat,"Rajiv Gandhi International Stadium, Uppal",MI,0,0,14,15,1501,1423
+434,434,435,2014,Ranchi,13-05-2014,RR,CSK,RR,bat,JSCA International Stadium Complex,CSK,0,0,14,16,1390,1848
+435,435,436,2014,Bangalore,13-05-2014,RCB,DD,DD,field,M Chinnaswamy Stadium,RCB,0,0,14,14,1436,1116
+436,436,437,2014,Hyderabad,14-05-2014,SH,KXIP,KXIP,field,"Rajiv Gandhi International Stadium, Uppal",KXIP,0,0,14,17,1501,2031
+437,437,438,2014,Cuttack,14-05-2014,MI,KKR,KKR,field,Barabati Stadium,KKR,0,0,15,16,1423,1719
+438,438,439,2014,Ahmedabad,15-05-2014,RR,DD,DD,field,"Sardar Patel Stadium, Motera",RR,0,0,14,14,1390,1116
+439,439,440,2014,Ranchi,18-05-2014,CSK,RCB,CSK,bat,JSCA International Stadium Complex,RCB,0,0,16,14,1848,1436
+440,440,441,2014,Hyderabad,18-05-2014,SH,KKR,SH,bat,"Rajiv Gandhi International Stadium, Uppal",KKR,0,0,14,16,1501,1719
+441,441,442,2014,Ahmedabad,19-05-2014,MI,RR,MI,bat,"Sardar Patel Stadium, Motera",MI,0,0,15,14,1423,1390
+442,442,443,2014,Delhi,19-05-2014,DD,KXIP,KXIP,field,Feroz Shah Kotla,KXIP,0,0,14,17,1116,2031
+443,443,444,2014,Hyderabad,20-05-2014,RCB,SH,RCB,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,14,1436,1501
+444,444,445,2014,Kolkata,20-05-2014,CSK,KKR,KKR,field,Eden Gardens,KKR,0,0,16,16,1848,1719
+445,445,446,2014,Chandigarh,21-05-2014,KXIP,MI,MI,field,"Punjab Cricket Association Stadium, Mohali",MI,0,0,17,15,2031,1423
+446,446,447,2014,Kolkata,22-05-2014,KKR,RCB,RCB,field,Eden Gardens,KKR,0,0,16,14,1719,1436
+447,447,448,2014,Ranchi,22-05-2014,CSK,SH,SH,field,JSCA International Stadium Complex,SH,0,0,16,14,1848,1501
+448,448,449,2014,Mumbai,23-05-2014,MI,DD,DD,field,Wankhede Stadium,MI,0,0,15,14,1423,1116
+449,449,450,2014,Chandigarh,23-05-2014,KXIP,RR,RR,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,17,14,2031,1390
+450,450,451,2014,Bangalore,24-05-2014,RCB,CSK,CSK,field,M Chinnaswamy Stadium,CSK,0,0,14,16,1436,1848
+451,451,452,2014,Kolkata,24-05-2014,SH,KKR,KKR,field,Eden Gardens,KKR,0,0,14,16,1501,1719
+452,452,453,2014,Chandigarh,25-05-2014,DD,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,14,17,1116,2031
+453,453,454,2014,Mumbai,25-05-2014,RR,MI,MI,field,Wankhede Stadium,MI,0,0,14,15,1390,1423
+454,454,455,2014,Kolkata,27-05-2014,KKR,KXIP,KXIP,field,Eden Gardens,KKR,0,0,16,17,1719,2031
+455,455,456,2014,Mumbai,28-05-2014,MI,CSK,CSK,field,Brabourne Stadium,CSK,0,0,15,16,1423,1848
+456,456,457,2014,Mumbai,30-05-2014,KXIP,CSK,CSK,field,Wankhede Stadium,KXIP,0,0,17,16,2031,1848
+457,457,458,2014,Bangalore,01-06-2014,KXIP,KKR,KKR,field,M Chinnaswamy Stadium,KKR,0,0,17,16,2031,1719
+458,458,459,2015,Kolkata,08-04-2015,MI,KKR,KKR,field,Eden Gardens,KKR,0,0,16,13,1949,1483
+459,459,460,2015,Chennai,09-04-2015,CSK,DD,DD,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,17,14,2130,1410
+460,460,461,2015,Pune,10-04-2015,RR,KXIP,KXIP,field,Maharashtra Cricket Association Stadium,RR,0,0,14,14,1485,1309
+461,461,462,2015,Chennai,11-04-2015,CSK,SH,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,17,14,2130,1436
+462,462,463,2015,Kolkata,11-04-2015,KKR,RCB,RCB,field,Eden Gardens,RCB,0,0,13,16,1483,1678
+463,463,464,2015,Delhi,12-04-2015,DD,RR,RR,field,Feroz Shah Kotla,RR,0,0,14,14,1410,1485
+464,464,465,2015,Mumbai,12-04-2015,KXIP,MI,MI,field,Wankhede Stadium,KXIP,0,0,14,16,1309,1949
+465,465,466,2015,Bangalore,13-04-2015,RCB,SH,SH,field,M Chinnaswamy Stadium,SH,0,0,16,14,1678,1436
+466,466,467,2015,Ahmedabad,14-04-2015,MI,RR,MI,bat,"Sardar Patel Stadium, Motera",RR,0,0,16,14,1949,1485
+467,467,468,2015,Kolkata,30-04-2015,CSK,KKR,KKR,field,Eden Gardens,KKR,0,0,17,13,2130,1483
+468,468,469,2015,Pune,15-04-2015,KXIP,DD,KXIP,bat,Maharashtra Cricket Association Stadium,DD,0,0,14,14,1309,1410
+469,469,470,2015,Visakhapatnam,16-04-2015,SH,RR,RR,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,RR,0,0,14,14,1436,1485
+470,470,471,2015,Mumbai,17-04-2015,MI,CSK,MI,bat,Wankhede Stadium,CSK,0,0,16,17,1949,2130
+471,471,472,2015,Visakhapatnam,18-04-2015,DD,SH,DD,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,DD,0,0,14,14,1410,1436
+472,472,473,2015,Pune,18-04-2015,KXIP,KKR,KKR,field,Maharashtra Cricket Association Stadium,KKR,0,0,14,13,1309,1483
+473,473,474,2015,Ahmedabad,19-04-2015,CSK,RR,CSK,bat,"Sardar Patel Stadium, Motera",RR,0,0,17,14,2130,1485
+474,474,475,2015,Bangalore,19-04-2015,MI,RCB,RCB,field,M Chinnaswamy Stadium,MI,0,0,16,16,1949,1678
+475,475,476,2015,Delhi,20-04-2015,DD,KKR,KKR,field,Feroz Shah Kotla,KKR,0,0,14,13,1410,1483
+476,476,477,2015,Ahmedabad,21-04-2015,RR,KXIP,KXIP,field,"Sardar Patel Stadium, Motera",KXIP,0,0,14,14,1485,1309
+477,477,478,2015,Visakhapatnam,22-04-2015,SH,KKR,KKR,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,SH,0,0,14,13,1436,1483
+478,478,479,2015,Bangalore,22-04-2015,CSK,RCB,RCB,field,M Chinnaswamy Stadium,CSK,0,0,17,16,2130,1678
+479,479,480,2015,Delhi,23-04-2015,DD,MI,MI,field,Feroz Shah Kotla,DD,0,0,14,16,1410,1949
+480,480,481,2015,Ahmedabad,24-04-2015,RR,RCB,RCB,field,"Sardar Patel Stadium, Motera",RCB,0,0,14,16,1485,1678
+481,481,482,2015,Mumbai,25-04-2015,MI,SH,MI,bat,Wankhede Stadium,MI,0,0,16,14,1949,1436
+482,482,483,2015,Chennai,25-04-2015,CSK,KXIP,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,17,14,2130,1309
+483,483,484,2015,Delhi,26-04-2015,DD,RCB,RCB,field,Feroz Shah Kotla,RCB,0,0,14,16,1410,1678
+484,484,485,2015,Chandigarh,27-04-2015,SH,KXIP,KXIP,field,"Punjab Cricket Association Stadium, Mohali",SH,0,0,14,14,1436,1309
+485,485,486,2015,Kolkata,07-05-2015,KKR,DD,KKR,bat,Eden Gardens,KKR,0,0,13,14,1483,1410
+486,486,487,2015,Bangalore,29-04-2015,RCB,RR,RR,field,M Chinnaswamy Stadium,,0,0,16,14,1678,1485
+487,487,488,2015,Chennai,28-04-2015,CSK,KKR,KKR,field,"MA Chidambaram Stadium, Chepauk",CSK,0,0,17,13,2130,1483
+488,488,489,2015,Delhi,01-05-2015,KXIP,DD,DD,field,Feroz Shah Kotla,DD,0,0,14,14,1309,1410
+489,489,490,2015,Mumbai,01-05-2015,MI,RR,RR,field,Wankhede Stadium,MI,0,0,16,14,1949,1485
+490,490,491,2015,Bangalore,02-05-2015,KKR,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,13,16,1483,1678
+491,491,492,2015,Hyderabad,02-05-2015,SH,CSK,CSK,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,17,1436,2130
+492,492,493,2015,Chandigarh,03-05-2015,MI,KXIP,MI,bat,"Punjab Cricket Association Stadium, Mohali",MI,0,0,16,14,1949,1309
+493,493,494,2015,Mumbai,03-05-2015,RR,DD,DD,field,Brabourne Stadium,RR,0,0,14,14,1485,1410
+494,494,495,2015,Chennai,04-05-2015,CSK,RCB,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,17,16,2130,1678
+495,495,496,2015,Kolkata,04-05-2015,KKR,SH,SH,field,Eden Gardens,KKR,0,0,13,14,1483,1436
+496,496,497,2015,Mumbai,05-05-2015,DD,MI,DD,bat,Wankhede Stadium,MI,0,0,14,16,1410,1949
+497,497,498,2015,Bangalore,06-05-2015,RCB,KXIP,KXIP,field,M Chinnaswamy Stadium,RCB,0,0,16,14,1678,1309
+498,498,499,2015,Mumbai,07-05-2015,SH,RR,RR,field,Brabourne Stadium,SH,0,0,14,14,1436,1485
+499,499,500,2015,Chennai,08-05-2015,CSK,MI,CSK,bat,"MA Chidambaram Stadium, Chepauk",MI,0,0,17,16,2130,1949
+500,500,501,2015,Kolkata,09-05-2015,KXIP,KKR,KXIP,bat,Eden Gardens,KKR,0,0,14,13,1309,1483
+501,501,502,2015,Raipur,09-05-2015,SH,DD,SH,bat,Shaheed Veer Narayan Singh International Stadium,SH,0,0,14,14,1436,1410
+502,502,503,2015,Mumbai,10-05-2015,RCB,MI,RCB,bat,Wankhede Stadium,RCB,0,0,16,16,1678,1949
+503,503,504,2015,Chennai,10-05-2015,CSK,RR,CSK,bat,"MA Chidambaram Stadium, Chepauk",CSK,0,0,17,14,2130,1485
+504,504,505,2015,Hyderabad,11-05-2015,SH,KXIP,SH,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,14,1436,1309
+505,505,506,2015,Raipur,12-05-2015,CSK,DD,CSK,bat,Shaheed Veer Narayan Singh International Stadium,DD,0,0,17,14,2130,1410
+506,506,507,2015,Chandigarh,13-05-2015,KXIP,RCB,RCB,field,"Punjab Cricket Association Stadium, Mohali",KXIP,0,0,14,16,1309,1678
+507,507,508,2015,Mumbai,14-05-2015,MI,KKR,KKR,field,Wankhede Stadium,MI,0,0,16,13,1949,1483
+508,508,509,2015,Hyderabad,15-05-2015,SH,RCB,SH,bat,"Rajiv Gandhi International Stadium, Uppal",RCB,0,0,14,16,1436,1678
+509,509,510,2015,Chandigarh,16-05-2015,KXIP,CSK,KXIP,bat,"Punjab Cricket Association Stadium, Mohali",CSK,0,0,14,17,1309,2130
+510,510,511,2015,Mumbai,16-05-2015,RR,KKR,RR,bat,Brabourne Stadium,RR,0,0,14,13,1485,1483
+511,511,512,2015,Bangalore,17-05-2015,DD,RCB,RCB,field,M Chinnaswamy Stadium,,0,0,14,16,1410,1678
+512,512,513,2015,Hyderabad,17-05-2015,SH,MI,SH,bat,"Rajiv Gandhi International Stadium, Uppal",MI,0,0,14,16,1436,1949
+513,513,514,2015,Mumbai,19-05-2015,MI,CSK,MI,bat,Wankhede Stadium,MI,0,0,16,17,1949,2130
+514,514,515,2015,Pune,20-05-2015,RCB,RR,RCB,bat,Maharashtra Cricket Association Stadium,RCB,0,0,16,14,1678,1485
+515,515,516,2015,Ranchi,22-05-2015,RCB,CSK,CSK,field,JSCA International Stadium Complex,CSK,0,0,16,17,1678,2130
+516,516,517,2015,Kolkata,24-05-2015,MI,CSK,CSK,field,Eden Gardens,MI,0,0,16,17,1949,2130
+517,517,518,2016,Mumbai,09-04-2016,MI,RPS,MI,bat,Wankhede Stadium,RPS,0,0,14,14,1537,1201
+518,518,519,2016,Kolkata,10-04-2016,DD,KKR,KKR,field,Eden Gardens,KKR,0,0,14,15,1299,1505
+519,519,520,2016,Chandigarh,11-04-2016,KXIP,GL,GL,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",GL,0,0,14,16,1253,1704
+520,520,521,2016,Bangalore,12-04-2016,RCB,SH,SH,field,M Chinnaswamy Stadium,RCB,0,0,16,17,1875,1787
+521,521,522,2016,Kolkata,13-04-2016,KKR,MI,MI,field,Eden Gardens,MI,0,0,15,14,1505,1537
+522,522,523,2016,Rajkot,14-04-2016,RPS,GL,RPS,bat,Saurashtra Cricket Association Stadium,GL,0,0,14,16,1201,1704
+523,523,524,2016,Delhi,15-04-2016,KXIP,DD,DD,field,Feroz Shah Kotla,DD,0,0,14,14,1253,1299
+524,524,525,2016,Hyderabad,16-04-2016,SH,KKR,SH,bat,"Rajiv Gandhi International Stadium, Uppal",KKR,0,0,17,15,1787,1505
+525,525,526,2016,Mumbai,16-04-2016,MI,GL,GL,field,Wankhede Stadium,GL,0,0,14,16,1537,1704
+526,526,527,2016,Chandigarh,17-04-2016,RPS,KXIP,RPS,bat,"Punjab Cricket Association IS Bindra Stadium, Mohali",KXIP,0,0,14,14,1201,1253
+527,527,528,2016,Bangalore,17-04-2016,RCB,DD,DD,field,M Chinnaswamy Stadium,DD,0,0,16,14,1875,1299
+528,528,529,2016,Hyderabad,18-04-2016,MI,SH,SH,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,17,1537,1787
+529,529,530,2016,Chandigarh,19-04-2016,KXIP,KKR,KKR,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",KKR,0,0,14,15,1253,1505
+530,530,531,2016,Mumbai,20-04-2016,RCB,MI,MI,field,Wankhede Stadium,MI,0,0,16,14,1875,1537
+531,531,532,2016,Rajkot,21-04-2016,GL,SH,SH,field,Saurashtra Cricket Association Stadium,SH,0,0,16,17,1704,1787
+532,532,533,2016,Pune,22-04-2016,RCB,RPS,RPS,field,Maharashtra Cricket Association Stadium,RCB,0,0,16,14,1875,1201
+533,533,534,2016,Delhi,23-04-2016,DD,MI,MI,field,Feroz Shah Kotla,DD,0,0,14,14,1299,1537
+534,534,535,2016,Hyderabad,23-04-2016,KXIP,SH,SH,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,17,1253,1787
+535,535,536,2016,Rajkot,24-04-2016,RCB,GL,RCB,bat,Saurashtra Cricket Association Stadium,GL,0,0,16,16,1875,1704
+536,536,537,2016,Pune,24-04-2016,RPS,KKR,KKR,field,Maharashtra Cricket Association Stadium,KKR,0,0,14,15,1201,1505
+537,537,538,2016,Chandigarh,25-04-2016,MI,KXIP,KXIP,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",MI,0,0,14,14,1537,1253
+538,538,539,2016,Hyderabad,26-04-2016,SH,RPS,RPS,field,"Rajiv Gandhi International Stadium, Uppal",RPS,0,0,17,14,1787,1201
+539,539,540,2016,Delhi,27-04-2016,GL,DD,DD,field,Feroz Shah Kotla,GL,0,0,16,14,1704,1299
+540,540,541,2016,Mumbai,28-04-2016,KKR,MI,MI,field,Wankhede Stadium,MI,0,0,15,14,1505,1537
+541,541,542,2016,Pune,29-04-2016,RPS,GL,GL,field,Maharashtra Cricket Association Stadium,GL,0,0,14,16,1201,1704
+542,542,543,2016,Delhi,30-04-2016,DD,KKR,KKR,field,Feroz Shah Kotla,DD,0,0,14,15,1299,1505
+543,543,544,2016,Hyderabad,30-04-2016,SH,RCB,RCB,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,17,16,1787,1875
+544,544,545,2016,Rajkot,01-05-2016,KXIP,GL,GL,field,Saurashtra Cricket Association Stadium,KXIP,0,0,14,16,1253,1704
+545,545,546,2016,Pune,01-05-2016,RPS,MI,MI,field,Maharashtra Cricket Association Stadium,MI,0,0,14,14,1201,1537
+546,546,547,2016,Bangalore,02-05-2016,RCB,KKR,KKR,field,M Chinnaswamy Stadium,KKR,0,0,16,15,1875,1505
+547,547,548,2016,Rajkot,03-05-2016,GL,DD,DD,field,Saurashtra Cricket Association Stadium,DD,0,0,16,14,1704,1299
+548,548,549,2016,Kolkata,04-05-2016,KKR,KXIP,KXIP,field,Eden Gardens,KKR,0,0,15,14,1505,1253
+549,549,550,2016,Delhi,05-05-2016,DD,RPS,RPS,field,Feroz Shah Kotla,RPS,0,0,14,14,1299,1201
+550,550,551,2016,Hyderabad,06-05-2016,GL,SH,SH,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,16,17,1704,1787
+551,551,552,2016,Bangalore,07-05-2016,RPS,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,14,16,1201,1875
+552,552,553,2016,Chandigarh,07-05-2016,KXIP,DD,DD,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",KXIP,0,0,14,14,1253,1299
+553,553,554,2016,Visakhapatnam,08-05-2016,SH,MI,MI,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,SH,0,0,17,14,1787,1537
+554,554,555,2016,Kolkata,08-05-2016,KKR,GL,GL,field,Eden Gardens,GL,0,0,15,16,1505,1704
+555,555,556,2016,Chandigarh,09-05-2016,RCB,KXIP,KXIP,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",RCB,0,0,16,14,1875,1253
+556,556,557,2016,Visakhapatnam,10-05-2016,SH,RPS,SH,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,SH,0,0,17,14,1787,1201
+557,557,558,2016,Bangalore,11-05-2016,RCB,MI,MI,field,M Chinnaswamy Stadium,MI,0,0,16,14,1875,1537
+558,558,559,2016,Hyderabad,12-05-2016,SH,DD,DD,field,"Rajiv Gandhi International Stadium, Uppal",DD,0,0,17,14,1787,1299
+559,559,560,2016,Visakhapatnam,13-05-2016,MI,KXIP,MI,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,KXIP,0,0,14,14,1537,1253
+560,560,561,2016,Bangalore,14-05-2016,RCB,GL,GL,field,M Chinnaswamy Stadium,RCB,0,0,16,16,1875,1704
+561,561,562,2016,Kolkata,14-05-2016,RPS,KKR,RPS,bat,Eden Gardens,KKR,0,0,14,15,1201,1505
+562,562,563,2016,Chandigarh,15-05-2016,KXIP,SH,KXIP,bat,"Punjab Cricket Association IS Bindra Stadium, Mohali",SH,0,0,14,17,1253,1787
+563,563,564,2016,Visakhapatnam,15-05-2016,MI,DD,DD,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,MI,0,0,14,14,1537,1299
+564,564,565,2016,Kolkata,16-05-2016,KKR,RCB,RCB,field,Eden Gardens,RCB,0,0,15,16,1505,1875
+565,565,566,2016,Visakhapatnam,17-05-2016,DD,RPS,RPS,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,RPS,0,0,14,14,1299,1201
+566,566,567,2016,Bangalore,18-05-2016,RCB,KXIP,KXIP,field,M Chinnaswamy Stadium,RCB,0,0,16,14,1875,1253
+567,567,568,2016,Kanpur,19-05-2016,KKR,GL,GL,field,Green Park,GL,0,0,15,16,1505,1704
+568,568,569,2016,Raipur,20-05-2016,SH,DD,DD,field,Shaheed Veer Narayan Singh International Stadium,DD,0,0,17,14,1787,1299
+569,569,570,2016,Visakhapatnam,21-05-2016,KXIP,RPS,KXIP,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,RPS,0,0,14,14,1253,1201
+570,570,571,2016,Kanpur,21-05-2016,MI,GL,GL,field,Green Park,GL,0,0,14,16,1537,1704
+571,571,572,2016,Kolkata,22-05-2016,KKR,SH,SH,field,Eden Gardens,KKR,0,0,15,17,1505,1787
+572,572,573,2016,Raipur,22-05-2016,DD,RCB,RCB,field,Shaheed Veer Narayan Singh International Stadium,RCB,0,0,14,16,1299,1875
+573,573,574,2016,Bangalore,24-05-2016,GL,RCB,RCB,field,M Chinnaswamy Stadium,RCB,0,0,16,16,1704,1875
+574,574,575,2016,Delhi,25-05-2016,SH,KKR,KKR,field,Feroz Shah Kotla,SH,0,0,17,15,1787,1505
+575,575,576,2016,Delhi,27-05-2016,GL,SH,SH,field,Feroz Shah Kotla,SH,0,0,16,17,1704,1787
+576,576,577,2016,Bangalore,29-05-2016,SH,RCB,SH,bat,M Chinnaswamy Stadium,SH,0,0,17,16,1787,1875
+577,577,578,2017,Hyderabad,05-04-2017,SH,RCB,RCB,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,13,1461,1169
+578,578,579,2017,Pune,06-04-2017,MI,RPS,RPS,field,Maharashtra Cricket Association Stadium,RPS,0,0,17,16,1787,1795
+579,579,580,2017,Rajkot,07-04-2017,GL,KKR,KKR,field,Saurashtra Cricket Association Stadium,KKR,0,0,14,16,1360,1643
+580,580,581,2017,Indore,08-04-2017,RPS,KXIP,KXIP,field,Holkar Cricket Stadium,KXIP,0,0,16,14,1795,1428
+581,581,582,2017,Bangalore,08-04-2017,RCB,DD,RCB,bat,M Chinnaswamy Stadium,RCB,0,0,13,14,1169,1450
+582,582,583,2017,Hyderabad,09-04-2017,GL,SH,SH,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,14,1360,1461
+583,583,584,2017,Mumbai,09-04-2017,KKR,MI,MI,field,Wankhede Stadium,MI,0,0,16,17,1643,1787
+584,584,585,2017,Indore,10-04-2017,RCB,KXIP,RCB,bat,Holkar Cricket Stadium,KXIP,0,0,13,14,1169,1428
+585,585,586,2017,Pune,11-04-2017,DD,RPS,RPS,field,Maharashtra Cricket Association Stadium,DD,0,0,14,16,1450,1795
+586,586,587,2017,Mumbai,12-04-2017,SH,MI,MI,field,Wankhede Stadium,MI,0,0,14,17,1461,1787
+587,587,588,2017,Kolkata,13-04-2017,KXIP,KKR,KKR,field,Eden Gardens,KKR,0,0,14,16,1428,1643
+588,588,589,2017,Bangalore,14-04-2017,RCB,MI,MI,field,M Chinnaswamy Stadium,MI,0,0,13,17,1169,1787
+589,589,590,2017,Rajkot,14-04-2017,RPS,GL,GL,field,Saurashtra Cricket Association Stadium,GL,0,0,16,14,1795,1360
+590,590,591,2017,Kolkata,15-04-2017,KKR,SH,SH,field,Eden Gardens,KKR,0,0,16,14,1643,1461
+591,591,592,2017,Delhi,15-04-2017,DD,KXIP,DD,bat,Feroz Shah Kotla,DD,0,0,14,14,1450,1428
+592,592,593,2017,Mumbai,16-04-2017,GL,MI,MI,field,Wankhede Stadium,MI,0,0,14,17,1360,1787
+593,593,594,2017,Bangalore,16-04-2017,RPS,RCB,RCB,field,M Chinnaswamy Stadium,RPS,0,0,16,13,1795,1169
+594,594,595,2017,Delhi,17-04-2017,DD,KKR,DD,bat,Feroz Shah Kotla,KKR,0,0,14,16,1450,1643
+595,595,596,2017,Hyderabad,17-04-2017,SH,KXIP,KXIP,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,14,1461,1428
+596,596,597,2017,Rajkot,18-04-2017,RCB,GL,GL,field,Saurashtra Cricket Association Stadium,RCB,0,0,13,14,1169,1360
+597,597,598,2017,Hyderabad,19-04-2017,SH,DD,SH,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,14,1461,1450
+598,598,599,2017,Indore,20-04-2017,KXIP,MI,MI,field,Holkar Cricket Stadium,MI,0,0,14,17,1428,1787
+599,599,600,2017,Kolkata,21-04-2017,KKR,GL,GL,field,Eden Gardens,GL,0,0,16,14,1643,1360
+600,600,601,2017,Mumbai,22-04-2017,MI,DD,DD,field,Wankhede Stadium,MI,0,0,17,14,1787,1450
+601,601,602,2017,Pune,22-04-2017,SH,RPS,RPS,field,Maharashtra Cricket Association Stadium,RPS,0,0,14,16,1461,1795
+602,602,603,2017,Rajkot,23-04-2017,KXIP,GL,GL,field,Saurashtra Cricket Association Stadium,KXIP,0,0,14,14,1428,1360
+603,603,604,2017,Kolkata,23-04-2017,KKR,RCB,RCB,field,Eden Gardens,KKR,0,0,16,13,1643,1169
+604,604,605,2017,Mumbai,24-04-2017,RPS,MI,MI,field,Wankhede Stadium,RPS,0,0,16,17,1795,1787
+605,605,606,2017,Pune,26-04-2017,RPS,KKR,KKR,field,Maharashtra Cricket Association Stadium,KKR,0,0,16,16,1795,1643
+606,606,607,2017,Bangalore,27-04-2017,RCB,GL,GL,field,M Chinnaswamy Stadium,GL,0,0,13,14,1169,1360
+607,607,608,2017,Kolkata,28-04-2017,DD,KKR,KKR,field,Eden Gardens,KKR,0,0,14,16,1450,1643
+608,608,609,2017,Chandigarh,28-04-2017,SH,KXIP,KXIP,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",SH,0,0,14,14,1461,1428
+609,609,610,2017,Pune,29-04-2017,RPS,RCB,RCB,field,Maharashtra Cricket Association Stadium,RPS,0,0,16,13,1795,1169
+610,610,611,2017,Rajkot,29-04-2017,GL,MI,GL,bat,Saurashtra Cricket Association Stadium,MI,0,0,14,17,1360,1787
+611,611,612,2017,Chandigarh,30-04-2017,DD,KXIP,KXIP,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",KXIP,0,0,14,14,1450,1428
+612,612,613,2017,Hyderabad,30-04-2017,SH,KKR,KKR,field,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,14,16,1461,1643
+613,613,614,2017,Mumbai,01-05-2017,RCB,MI,RCB,bat,Wankhede Stadium,MI,0,0,13,17,1169,1787
+614,614,615,2017,Pune,01-05-2017,GL,RPS,RPS,field,Maharashtra Cricket Association Stadium,RPS,0,0,14,16,1360,1795
+615,615,616,2017,Delhi,02-05-2017,SH,DD,DD,field,Feroz Shah Kotla,DD,0,0,14,14,1461,1450
+616,616,617,2017,Kolkata,03-05-2017,KKR,RPS,RPS,field,Eden Gardens,RPS,0,0,16,16,1643,1795
+617,617,618,2017,Delhi,04-05-2017,GL,DD,DD,field,Feroz Shah Kotla,DD,0,0,14,14,1360,1450
+618,618,619,2017,Bangalore,05-05-2017,KXIP,RCB,RCB,field,M Chinnaswamy Stadium,KXIP,0,0,14,13,1428,1169
+619,619,620,2017,Hyderabad,06-05-2017,RPS,SH,SH,field,"Rajiv Gandhi International Stadium, Uppal",RPS,0,0,16,14,1795,1461
+620,620,621,2017,Delhi,06-05-2017,MI,DD,DD,field,Feroz Shah Kotla,MI,0,0,17,14,1787,1450
+621,621,622,2017,Bangalore,07-05-2017,RCB,KKR,KKR,field,M Chinnaswamy Stadium,KKR,0,0,13,16,1169,1643
+622,622,623,2017,Chandigarh,07-05-2017,KXIP,GL,GL,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",GL,0,0,14,14,1428,1360
+623,623,624,2017,Hyderabad,08-05-2017,MI,SH,MI,bat,"Rajiv Gandhi International Stadium, Uppal",SH,0,0,17,14,1787,1461
+624,624,625,2017,Chandigarh,09-05-2017,KXIP,KKR,KKR,field,"Punjab Cricket Association IS Bindra Stadium, Mohali",KXIP,0,0,14,16,1428,1643
+625,625,626,2017,Kanpur,10-05-2017,GL,DD,DD,field,Green Park,DD,0,0,14,14,1360,1450
+626,626,627,2017,Mumbai,11-05-2017,KXIP,MI,MI,field,Wankhede Stadium,KXIP,0,0,14,17,1428,1787
+627,627,628,2017,Delhi,12-05-2017,DD,RPS,DD,bat,Feroz Shah Kotla,DD,0,0,14,16,1450,1795
+628,628,629,2017,Kanpur,13-05-2017,GL,SH,SH,field,Green Park,SH,0,0,14,14,1360,1461
+629,629,630,2017,Kolkata,13-05-2017,MI,KKR,KKR,field,Eden Gardens,MI,0,0,17,16,1787,1643
+630,630,631,2017,Pune,14-05-2017,KXIP,RPS,RPS,field,Maharashtra Cricket Association Stadium,RPS,0,0,14,16,1428,1795
+631,631,632,2017,Delhi,14-05-2017,RCB,DD,RCB,bat,Feroz Shah Kotla,RCB,0,0,13,14,1169,1450
+632,632,633,2017,Mumbai,16-05-2017,RPS,MI,MI,field,Wankhede Stadium,RPS,0,0,16,17,1795,1787
+633,633,634,2017,Bangalore,17-05-2017,SH,KKR,KKR,field,M Chinnaswamy Stadium,KKR,0,0,14,16,1461,1643
+634,634,635,2017,Bangalore,19-05-2017,KKR,MI,MI,field,M Chinnaswamy Stadium,MI,0,0,16,17,1643,1787
+635,635,636,2017,Hyderabad,21-05-2017,MI,RPS,MI,bat,"Rajiv Gandhi International Stadium, Uppal",MI,0,0,17,16,1787,1795
