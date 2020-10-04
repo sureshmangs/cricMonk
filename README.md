@@ -4,6 +4,10 @@ Building a Machine Learning Model to predict the outcome of matches played in IP
 
 ML model predicts the winning team and the winning percentage based on the home team, away team, venue, toss winner, toss decision and playing 11 of the teams
 
+## Snapshots
+
+<img src = 'gif.gif' alt = "gif" />
+
 ## :arrow_right: Technologies Used:
 
 :one: React
